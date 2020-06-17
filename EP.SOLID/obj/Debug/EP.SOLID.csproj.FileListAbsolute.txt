@@ -1,0 +1,6 @@
+C:\Users\raquel.freitas\Downloads\SOLID-master\EP.SOLID\bin\Debug\EP.SOLID.exe
+C:\Users\raquel.freitas\Downloads\SOLID-master\EP.SOLID\bin\Debug\EP.SOLID.pdb
+C:\Users\raquel.freitas\Downloads\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.csprojAssemblyReference.cache
+C:\Users\raquel.freitas\Downloads\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\raquel.freitas\Downloads\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.exe
+C:\Users\raquel.freitas\Downloads\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.pdb
